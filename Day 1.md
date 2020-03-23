@@ -16,8 +16,31 @@ Types of ML
                            
     So we feed the machine with lots of training data and predict the output with new data. This is                                 called supervises learning. (fast and accurate)
     
-    Types - a) Regression - A continuous response value is predicted with respect to an output. For example, in value of stock,                             price is the value calculated at different times.
+    Types - a) Regression - A continuous response value is predicted with respect to an output. For example, in value of                                 stock,price is the value calculated at different times.
+    
             b) Classification - Input is seperated into different 'classes'. Is the picture(input) a dog or a cat or a tiger?
           
-2. Unsupervised Learning - Training Data does not include targets so we don't tell where to go. Also the data is not structured                            (noisy, unknown). example - random articles from different pages.
-                          
+2. Unsupervised Learning - Training Data does not include targets so we don't tell where to go. Also the data is not                                    structured(noisy, unknown). example - random articles from different pages.
+
+                           unstructured data ---> Algorithm (understand patterns in data itself) ---> Conclusions/Results
+                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

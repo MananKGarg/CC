@@ -14,15 +14,18 @@ Types of ML
                           Input Data is called as training data. 
                           Training Data = Input + Labels (Targets or outputs)
                            
-    So we feed the machine with lots of training data and predict the output with new data. This is                                 called supervises learning. (fast and accurate)
+    So we feed the machine with lots of training data and predict the output with new data. This is                                 called supervised learning. (fast and accurate)
     
     Types - a) Regression - A continuous response value is predicted with respect to an output. For example, in value of                                 stock,price is the value calculated at different times.
-    
             b) Classification - Input is seperated into different 'classes'. Is the picture(input) a dog or a cat or a tiger?
           
 2. Unsupervised Learning - Training Data does not include targets so we don't tell where to go. Also the data is not                                    structured(noisy, unknown). example - random articles from different pages.
 
-                           unstructured data ---> Algorithm (understand patterns in data itself) ---> Conclusions/Results
+       unstructured data ---> Algorithm (understand patterns in data itself) ---> Conclusions/Results
+       
+    Types - a) anomaly detection -  not gonna talk about this yet
+            b) Clustering - type of problem where we group similar things together but unlike multiclass classification we do
+                            not provide the labels here. examples --> given news articles, cluster into diff types of news
                            
 
 

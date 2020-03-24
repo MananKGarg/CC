@@ -1,0 +1,66 @@
+Gradient Descent Algorithm
+
+---> m and b are called as weights in ML.
+
+Let y = b + m*x = a0 + a1*x
+
+Initially,take random values for a0 and a1.  thus h(x) = a0 + a1*x   { h(x) is called hypothesis }
+
+For random a0 and a1, we calculate error
+
+error = (predicted - actual)^2
+error = (h(x) - y)^2
+
+cost function J(a0,a1) = sum of all the errors
+
+J(a0,a1) = (1/2m)sigma{1 to m} ([h(xi) - y]^2) 
+           m = no of training examples
+           
+Goal is to minimise cost function. Let us suppose we have 3 data points and we take a fixed slope, we try to find the cost 
+function and see where we get minimum value with putting different intercepts.
+
+We do not calculate where the slope is zero wrt intercept instead we start from a random intercept starting value and then 
+move towards values with lesser cost function.
+
+Beauty of GD is that it takes big steps when far away from the desired value and takes small steps when nearer, saving a lot 
+of computational power.
+
+Reference video - https://www.youtube.com/watch?v=sDv4f4s2SB8
+
+step size = slope(of cost function wrt intercept) * learning rate (alpha)  [learning rates are usually kept 0.01]
+
+Here we calculated just the intercept, now let's calculate both slope and intercept using Gradient descent. Forvisualisation,
+we can imagine loss function on z axis with intercept and slope on x and y.
+
+We calculate gradients dz/dx and dz/dy.
+
+This time we start with picking random values for intercept and slope and calculate step size by multiplying slope of loss
+function by learning rate
+
+---> GD is learning rate sensitive
+
+Now we have new intercepts and new slopes and those are nearer to the best fit line.
+
+we keep doing it till step size is down to a certain value.
+
+So, if we have more parameters we just follow the same and reach towards minumum loss function value.
+
+---> sum of deifference squared is just one kind of loss function. There are another.
+
+Summarising
+
+Step 1. Take gradients of loss function
+Step 2. Start with random values of parameters
+Step 3. Plug parameter values into derivatives
+Step 4. Calculate Step Size: Step Size = Slope * Learning Rate
+Step 5. Calculate new parameters:
+                        New parameter = Old parameter - Step Size
+Step 6. Go back to step 3
+
+
+      
+      
+      
+      
+      
+      

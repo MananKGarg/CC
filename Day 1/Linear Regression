@@ -10,9 +10,7 @@ Simple Linear Regression - Only one input x
 Multiple LR - y = a0 + a1*x1 + a2*x2....an*xn
 
 
-Gradient Descent Algorithm
 
----> m and b are called weights in ML
 
 
  

@@ -21,6 +21,10 @@
 ### Week 3 (6th April - 12th April)
 
 * Started reading about Neural networks and Speech recognition.
+* Started learning about Pandas and it's usage in data manipulation
+* Completed Pandas course on Kaggle. Click to view [Notes](https://github.com/MananKGarg/Kaggle/tree/master/Kaggle%20Pandas) and [certificate](https://github.com/MananKGarg/Kaggle/blob/master/Kaggle%20Pandas/7.%20Certificate.md)
+* Learned about various methods and strategied involved in sorting, renaming, combining and Grouping data for better analysis of data using Pandas
+
 
 
 

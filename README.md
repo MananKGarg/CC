@@ -30,7 +30,7 @@ Note - Dates in certificate may not match the week in which it was completed bec
 ### Week 4 (13th April - 20th April)
 
 * Started learning about basics of Deep Learning 
-* Completed the Kaggle course on Deep Learning. Click to view [NOTES](https://github.com/MananKGarg/Kaggle/tree/master/Kaggle%20Deep%20Learning) and [CERTIFICATE](https://github.com/MananKGarg/Kaggle/edit/master/Kaggle%20Deep%20Learning/9.%20Cerificate.md)
+* Completed the Kaggle course on Deep Learning. Click to view [NOTES](https://github.com/MananKGarg/Kaggle/tree/master/Kaggle%20Deep%20Learning) and [CERTIFICATE](https://user-images.githubusercontent.com/62146744/79679609-dad44780-8224-11ea-8b69-ad5e00739ee3.png)
 
 
 

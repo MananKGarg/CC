@@ -27,6 +27,11 @@ Note - Dates in certificate may not match the week in which it was completed bec
 * Completed Pandas course on Kaggle. Click to view [NOTES](https://github.com/MananKGarg/Kaggle/tree/master/Kaggle%20Pandas) and [CERTIFICATE](https://github.com/MananKGarg/Kaggle/blob/master/Kaggle%20Pandas/7.%20Certificate.md)
 * Learned about various methods and strategied involved in sorting, renaming, combining and Grouping data for better analysis of data using Pandas
 
+### Week 4 (13th April - 20th April)
+
+* Started learning about basics of Deep Learning 
+* Completed the Kaggle course on Deep Learning. Click to view [NOTES](https://github.com/MananKGarg/Kaggle/tree/master/Kaggle%20Deep%20Learning) and [CERTIFICATE](https://github.com/MananKGarg/Kaggle/edit/master/Kaggle%20Deep%20Learning/9.%20Cerificate.md)
+
 
 
 

@@ -29,8 +29,15 @@ Note - Dates in certificate may not match the week in which it was completed bec
 
 ### Week 4 (13th April - 20th April)
 
-* Started learning about basics of Deep Learning 
+* Started learning about basics of Deep Learning.
+* Started with learning more about convolutions and building computer vision models using Tensorflow and Keras.
+* Moved on to Transfer Learning, Data Augmentation and learned how Stochastic Gradient Descent and Backpropagation can be used to train the models.
+* Learnt about Dropuots and Strides for working on bigger datasets.
 * Completed the Kaggle course on Deep Learning. Click to view [NOTES](https://github.com/MananKGarg/Kaggle/tree/master/Kaggle%20Deep%20Learning) and [CERTIFICATE](https://user-images.githubusercontent.com/62146744/79679609-dad44780-8224-11ea-8b69-ad5e00739ee3.png)
+* Learnt about sources of error and ways to fine tune the parameters in machine learning models
+* Preprocessed data on Kaggle to account for Missing Values and Categorical Variables firstly by coding it all seperately and then by using Pipelines
+* Used XGBoost on Kaggle House Pricing Dataset and learnt about various kinds of Data Leakages.
+* Completed the Kaggle Course on Intermediate Machine Learning. Not made Notes for this one yet but here's the [CERTIFICATE]()
 
 
 

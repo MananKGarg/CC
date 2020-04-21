@@ -7,7 +7,7 @@ Note - Dates in certificate may not match the week in which it was completed bec
 
 ### Week 1 (23rd March - 29 March)
 
-* Reading abou basic types of ML , Supervised Learning and Unsupervised learning. Notes are [HERE](https://github.com/MananKGarg/SoC_2020_Conversational_Chatbot/blob/master/Intro%20to%20ML)
+* Reading about basic types of ML , Supervised Learning and Unsupervised learning. Notes are [HERE](https://github.com/MananKGarg/SoC_2020_Conversational_Chatbot/blob/master/Intro%20to%20ML)
 * Gradient Descent Algorithm. [Notes](https://github.com/MananKGarg/SoC_2020_Conversational_Chatbot/tree/master/Week%201/Day%201)
 * [Linear Regression](https://github.com/MananKGarg/SoC_2020_Conversational_Chatbot/tree/master/Day%201)
 * [Coding Linear Regression](https://github.com/MananKGarg/SoC_2020_Conversational_Chatbot/tree/master/Day%203)

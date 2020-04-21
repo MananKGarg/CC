@@ -37,8 +37,8 @@ Note - Dates in certificate may not match the week in which it was completed bec
 * Learnt about sources of error and ways to fine tune the parameters in machine learning models
 * Preprocessed data on Kaggle to account for Missing Values and Categorical Variables firstly by coding it all seperately and then by using Pipelines
 * Used XGBoost on Kaggle House Pricing Dataset and learnt about various kinds of Data Leakages.
-* Completed the Kaggle Course on Intermediate Machine Learning. Not made Notes for this one yet but here's the [CERTIFICATE](![Manan Kumar Garg - Intermediate Machine Learning](https://user-images.githubusercontent.com/62146744/79918359-e0f73d80-8449-11ea-9691-e56636410258.png)
-)
+* Completed the Kaggle Course on Intermediate Machine Learning. Not made Notes for this one yet but here's the [CERTIFICATE]
+
 
 
 

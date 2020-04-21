@@ -16,7 +16,7 @@ Note - Dates in certificate may not match the week in which it was completed bec
 ### Week 2 (30 March - 5 April)
 
 * Brushed up python once by completing Kaggle course. Click for [NOTES](https://github.com/MananKGarg/Python-Codes/tree/master/Notes) made and [CERTIFICATE](https://github.com/MananKGarg/Python-Codes/blob/master/Notes/Certificate.md)
-* Completed Intro to ML course on Kaggle. Click for [NOTES](https://github.com/MananKGarg/Python-Codes/tree/master/ML%20Kaggle) and [CERTIFICATE](https://github.com/MananKGarg/Python-Codes/blob/master/ML%20Kaggle/7.%20Certificate.md)
+* Completed Intro to Machine Learning course on Kaggle. Click for [NOTES](https://github.com/MananKGarg/Python-Codes/tree/master/ML%20Kaggle) and [CERTIFICATE](https://github.com/MananKGarg/Python-Codes/blob/master/ML%20Kaggle/7.%20Certificate.md)
 * Learned various basics of ML like fitting and predicting data, Model Validation, Underfitting and Overfitting using Decision Tree model.
 * Learned about Random Forest Model and it's advantages over Decision Tree
 

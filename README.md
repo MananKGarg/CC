@@ -39,6 +39,11 @@ Note - Dates in certificate may not match the week in which it was completed bec
 * Used XGBoost on Kaggle House Pricing Dataset and learnt about various kinds of Data Leakages.
 * Completed the Kaggle Course on Intermediate Machine Learning. Not made Notes for this one yet but here's the [CERTIFICATE](https://github.com/MananKGarg/Kaggle/tree/master/Kaggle%20Intermediate%20Machine%20Learning)
 
+### Week 5 (21 April - 27 April)
+
+* Started with basics of NLP including tokenising, lemmatizing, PhraseMatcher, Stopwords etc.
+* Started with Intro to NLP course on Kaggle. Here are the [NOTES](https://github.com/MananKGarg/Kaggle/tree/master/Kaggle%20Natural%20Language%20Processing)
+
 
 
 
